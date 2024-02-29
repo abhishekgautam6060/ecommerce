@@ -70,13 +70,13 @@ export const navigation = {
                 {
                     name: 'New Arrivals',
                     href :'#',
-                    imageSrc: 'https://tailwindui.com/img/ecommerce-images/mega-menu-category-01.jpg',
+                    imageSrc: 'https://img.freepik.com/free-photo/young-handsome-man-choosing-clothes-shop_1303-19720.jpg',
                     imageAlt: 'Models sitting back to back, wearing basic tee in black and bone.',                    
                 },
                 {
                     name: 'Artwork Tees',
                     href :'/',
-                    imageSrc: 'https://tailwindui.com/img/ecommerce-images/category-page-02-image-card-06.jpg',
+                    imageSrc: 'https://i.pinimg.com/736x/76/10/d1/7610d11772f0a8c06b3fade9bd451572.jpg',
                     imageAlt: 'This shirt in gray, white and blue arranged on table with same line.',
                 },
             ],
